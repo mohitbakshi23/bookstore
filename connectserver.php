@@ -1,9 +1,9 @@
 <?php
 /* Database credentials. Assuming you are running MySQL
 server with default setting (user 'root' with no password) */
-define('DB_SERVER', 'localhost');
-define('DB_USERNAME', 'root');
-define('DB_PASSWORD', 'Pimpudi.10');
+define('DB_SERVER', '127.0.0.1');
+define('DB_USERNAME', 'azure');
+define('DB_PASSWORD', '6#vWHD_$');
 define('DB_NAME', 'book-shop');
  
 /* Attempt to connect to MySQL database */
